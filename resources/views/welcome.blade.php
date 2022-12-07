@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1>Deployapps .io</h1>
-                <h1>LearnHunter</h1>
+                <h1>LearnHunter New</h1>
             </div>
         </div>
     </body>
