@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1>Deployapps .io</h1>
-                <h1>LearnHunter Auto deploy</h1>
+                <h1>This is my first video with deployapp.io</h1>
             </div>
         </div>
     </body>
